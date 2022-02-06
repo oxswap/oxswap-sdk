@@ -53,7 +53,7 @@ var INIT_CODE_HASH = {
 var RPC_URLS = {
   1: "",
   56: "",
-  1666600000: 'https://harmony-0.gateway.pokt.network/v1/lb/618a63ac7335c800360b4ce3',
+  1666600000: 'https://api.harmony.one',
   1666700000: 'https://api.s0.pops.one/',
   1337: "http://localhost:7545"
 };
